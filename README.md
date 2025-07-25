@@ -1,10 +1,10 @@
 
 # 🚖 Uber Fares Data Analysis Project
+**Course:** Introduction to Big Data Analytics INSY 8413
 
-**Course:** Introduction to Big Data Analytics – INSY 8413
-**Instructor:** Eric Maniraguha  
-**Student:** Mutsinzi Brian Heritier 
+**Student:** Mutsinzi Brian Heritier
 **Group:** B  
+**Instructor:** Eric Maniraguha  
 **Tool Used:** Python & Power BI  
 **Dataset Source:** [Uber Fares Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)  
 **Submission Deadline:** Friday, July 25, 2025 – Before Sabbath (5:00 PM)  
