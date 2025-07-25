@@ -106,5 +106,5 @@ These were used in line charts, bar charts, and KPI visuals.
 
 ---
 ---
-If you want to know more go check in the markdown
+ For more detailed information, please refer to the full Markdown report provided in this repository.
 ---
