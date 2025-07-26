@@ -208,7 +208,7 @@ The final dashboard includes:
 ## 🙏 Acknowledgements
 
 - Dataset: [Kaggle – Uber Fares Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
-- Tools: Python, Pandas, Power BI, GitHub
+- Tools: vs code, Power BI, GitHub
 - Institution: Adventist University of Central Africa (AUCA)
 
 ---
